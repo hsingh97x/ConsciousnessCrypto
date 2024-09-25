@@ -1,8 +1,6 @@
 # ConsciousnessCrypto
 ERC-20 Token for Freedom of Consciousness
 
-# ConsciousnessCrypto
-
 ## Overview
 
 **ConsciousnessCrypto (CNC)** is an ERC-20 token with a maximum supply of 999,999,999 tokens. It includes standard minting, pausing, and burning features. The owner can mint new tokens (up to the maximum supply), pause/unpause transfers, and burn tokens.
